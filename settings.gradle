@@ -1,0 +1,4 @@
+rootProject.name = 'library-events-thrift'
+include 'library-events-consumer'
+include 'library-events-producer'
+
